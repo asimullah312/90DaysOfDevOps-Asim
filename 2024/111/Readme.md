@@ -23,7 +23,7 @@ thankyou
 
 
 
-this again after mixued command use
+this again after mixued command 
 
 
 
@@ -40,4 +40,8 @@ ok
 ok
 
 
- 
+
+
+
+ok 
+
